@@ -1,3 +1,3 @@
 module.exports.home = function (req,res) { 
-    return res.end('<h1> setting routes </h1>')
+    return res.end('<h1> setting home routes </h1>')
 }
